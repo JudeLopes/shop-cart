@@ -1,0 +1,9 @@
+# Ignore the heavy dependencies folder
+node_modules/
+
+# Ignore environment variables (sensitive data)
+.env
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
